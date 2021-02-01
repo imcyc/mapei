@@ -21,7 +21,9 @@ export default function Home() {
               <a class="btn btn-primary float-right">ENTRAR</a>
             </Link>
           </form>
-          
+          <div align="center">
+            <img src="images/logo-imcyc.svg" alt="" title="" style={{width: '120px', margin: '10px'}} />
+          </div>
         </div>
       </div>
     </Layout>
