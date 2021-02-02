@@ -18,7 +18,7 @@ export default function Home() {
               <input type="password" class="form-control" placeholder="Contraseña" />
             </div>
             <Link href="/about" as={process.env.BACKEND_URL + '/about'}>
-              <a class="btn btn-primary float-right">ENTRAR</a>
+              <a class="btn btn-primary float-right">INGRESAR</a>
             </Link>
           </form>
           <div align="center">
